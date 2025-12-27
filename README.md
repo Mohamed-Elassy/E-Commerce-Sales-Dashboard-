@@ -41,7 +41,7 @@ The goal was to provide business owners with a clear view of their revenue drive
 ---
 
 ## 🖼️ Project Preview
-- [Sales Dashboard Overview](https://github.com/Mohamed-Elassy/Sales-Dashboard/blob/main/SalesDashboard.png)
+- [Sales Dashboard Overview](https://github.com/Mohamed-Elassy/E-Commerce-Sales-Dashboard-/blob/main/Sales%20Dashboard.png)
 
 ---
 
